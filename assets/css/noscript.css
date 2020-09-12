@@ -1,0 +1,23 @@
+/*	NekoDiv's personal landing page.
+	This page was created to help identify who is NekoDiv and their online persona.
+	Page was created, modified, and coded by NekoDiv with base design by HTML5 UP
+	Identity by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
+/* Basic */
+
+	body:after {
+		display: none;
+	}
+
+/* Main */
+
+	#main {
+		-moz-transform: none !important;
+		-webkit-transform: none !important;
+		-ms-transform: none !important;
+		transform: none !important;
+		opacity: 1 !important;
+	}
